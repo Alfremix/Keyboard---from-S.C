@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+input{
+    border: white;
+    background: none;
+    color: blue;
+    padding-bottom: 2000px;
+    width: 2000px;
+    font-size: 80px;
+    border-top: blue 2px;
+}
